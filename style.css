@@ -1,6 +1,12 @@
 p {
 
 }
+
+h3 {
+  font-size: 20px;
+  display: inline;
+}  
+
 .top {
   margin: 0px;
   padding: 0px;
