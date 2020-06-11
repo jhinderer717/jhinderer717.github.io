@@ -9,6 +9,9 @@ p {
 
 h3 {
   display: block;
+  padding: 10px;
+  border: 10px;
+  margin: 10px;
 }  
 
 h4 {
@@ -25,7 +28,7 @@ body {
   margin-left: 100px;
   margin-right: 100px;
   padding: 30px;
-  background-color: LightBlue;
+  background-color: LightGray;
 }
 
 
