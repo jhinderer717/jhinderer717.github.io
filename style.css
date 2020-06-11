@@ -12,6 +12,11 @@ h3 {
   display: inline;
 }  
 
+body {
+  text-align: center;
+}
+
+
 .top {
   margin: 0px;
   padding: 0px;
