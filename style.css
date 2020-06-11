@@ -13,8 +13,9 @@ h3 {
 }  
 
 body {
-  border: 1px solid #000;
-  margin: 2px;
+  border: 5px solid #000;
+  margin-left: 100px;
+  margin-right: 100px;
   padding: 30px;
 }
 
